@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/ryanlebon/Desktop/servers_/flask_twilio_app/venv"
+set -gx VIRTUAL_ENV "/Users/ryanlebon/Desktop/infrastructure/twilio_app/flask_client/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
